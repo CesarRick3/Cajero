@@ -1,4 +1,3 @@
-package Proyecto_Terminado;
 
 public class Transferencia extends Clase_Abstractaa {
 
